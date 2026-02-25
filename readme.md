@@ -126,4 +126,13 @@ Insight Highlights:<br>
 
 
 ### 📷 Dashboard Preview
+### PAGE 1 :- OVERVIEW
+![Alt text](https://github.com/AniikettJ/FINANCIAL-ANALYTICS-DASHBOARD/blob/main/SNAPSHOTS/Page%201.png)
 
+
+### PAGE 2 :- CUSTOMER BASE
+![Alt text](https://github.com/AniikettJ/FINANCIAL-ANALYTICS-DASHBOARD/blob/main/SNAPSHOTS/Page%202.png)
+
+
+### PAGE 3 :- REVENUE INSIGHTS
+![Alt text](https://github.com/AniikettJ/FINANCIAL-ANALYTICS-DASHBOARD/blob/main/SNAPSHOTS/Page%203.png)
